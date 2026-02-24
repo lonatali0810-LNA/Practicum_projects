@@ -30,8 +30,7 @@
 
 **Используемые библиотеки** – pandas, numpy, scipy.stats, statsmodels, matplotlib, seaborn.
 
-
-
+___
 
 **2. Расчет Юнит-экономики и метрик мобильного приложения** 
 **Файл**: unit_economics_analysis_2026_02.ipynb
