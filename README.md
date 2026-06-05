@@ -3,9 +3,9 @@
 
 **1. Анализ A/B-теста финансового приложения для инвесторов**
 
-**Файл**: finance_ab_test_2026_02.ipynb
+**Файл**: `finance_ab_test_2026_02.ipynb`
 
-**Путь**: Practicum_projects/projects/finance_ab_test_2026_02.ipynb
+**Путь**: `Practicum_projects/projects/finance_ab_test_2026_02.ipynb`
 
 *Описание проекта*:
 
@@ -33,8 +33,10 @@
 ___
 
 **2. Расчет Юнит-экономики и метрик мобильного приложения** 
-**Файл**: unit_economics_analysis_2026_02.ipynb
-**Путь**: Practicum_projects/projects/unit_economics_analysis_2026_02.ipynb
+
+**Файл**: `unit_economics_analysis_2026_02.ipynb`
+
+**Путь**: `Practicum_projects/projects/unit_economics_analysis_2026_02.ipynb`
 
 *Описание проекта*:
 
@@ -62,9 +64,9 @@ ___
 
 **3. Анализ рынка жилой недвижимости Санкт‑Петербурга и Ленинградской области для разработки бизнес‑стратегии агентства недвижимости**
 
-**Файл:** real_estate_analysis_2026_03.ipynb
+**Файл:** `real_estate_analysis_2026_03.ipynb`
 
-**Путь:** Practicum_projects/projects/ real_estate_analysis_2026_03.ipynb
+**Путь:** `Practicum_projects/projects/ real_estate_analysis_2026_03.ipynb`
 
 *Описание проекта:*
 
@@ -90,9 +92,9 @@ ___
 
 **4. Автоматизация обработки данных (создание витрин данных)**
 
-**Файл:** airflow_2026_03.ipynb
+**Файл:** `airflow_2026_03.ipynb`
 
-**Путь:** Practicum_projects/projects/airflow_2026_03.ipynb
+**Путь:** `Practicum_projects/projects/airflow_2026_03.ipynb`
 
 *Описание проекта:*
 
